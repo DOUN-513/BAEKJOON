@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BAEKJOON c++.cpp">
+    <ClCompile Include="We love kriii.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
